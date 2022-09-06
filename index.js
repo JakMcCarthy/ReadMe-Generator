@@ -9,7 +9,7 @@ const questions = [
     {
         type: 'input',
         name: 'title',
-        message: "what's the title of your project?",
+        message: "What is your title of this project?",
     },
     {
         type: 'input',
@@ -29,17 +29,17 @@ const questions = [
     {
         type: 'input',
         name: 'contribution',
-        message: 'Who were the contributors to this project?',
+        message: 'Who were the contributors on this project?',
     },
     {
         type: 'input',
         name: 'testInstructions',
-        message: 'What are the test instructions?',
+        message: 'What are the instructions for testing?',
     },
     {
         type: 'input',
         name: 'gitHubUserName',
-        message: 'what is your git hub user name?',
+        message: 'What is your Github user name?',
     },
     {
         type: 'input',
@@ -61,7 +61,7 @@ function init() {
         var template = generateMarkdown(answers);
         console.log(template);
         //function writeToFile(fileName, data) {}
-        fs.writeFile('READMEGENERATOR.md', template, (error) => {
+        fs.writeFile('ReadME.md', template, (error) => {
             if (error) {
                 console.log(error);
             } else {
