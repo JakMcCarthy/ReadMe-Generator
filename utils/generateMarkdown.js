@@ -53,8 +53,6 @@ function generateMarkdown(answers) {
   
   ## Questions:
   If you have any questions, please contact the coding team at: 
-  ${answers.email}
-
-`;
+  ${answers.email}`;
 }
 
