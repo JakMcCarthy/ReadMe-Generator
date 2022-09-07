@@ -1,7 +1,7 @@
 
-  #  ReadMe Generator
+  # ReadMe Generator
   ## Description:
-  Creates command line interface to generate a ReadMe.md file following the format of this one
+  This is to generate ReadMe.md files from the terminal line for any project in markdown
   
   ## Table of Contents
 
@@ -13,10 +13,10 @@
   - [Questions](#questions)
   
   ## Installation:
-  First run 'npm i' to install inqurer then in the terminal run 'node index.js'
+  First run 'npm i' to install inquirer, then run 'node index' to start the program and create the readme.
   
   ## Usage:
-  Generating Markdown ReadMe.md file filled out specifically, by you, for your project.
+  To generate unique ReadMe files for a project.
   
   ## Contributors:
   Jackson McCarthy
@@ -28,8 +28,11 @@
   undefined
   
   ## Tests:
-  No Test Specified
+  No Test Specified.
+  ## Demo Video:
   
+  [](../../../Downloads/Untitled_%20Sep%206,%202022%208_38%20PM.webm)
+
   ## Questions:
   If you have any questions, please contact the coding team at: 
   jak.mcc23@gmail.com
