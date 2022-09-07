@@ -32,7 +32,7 @@
  
   ## Demo Video:
   
-  [](https://drive.google.com/file/d/1zuLf3UNnP6RwyLb1mHwyO_mbuOBmJJL6/view)
+  https://drive.google.com/file/d/1zuLf3UNnP6RwyLb1mHwyO_mbuOBmJJL6/view 
 
   ## Study Group:
   
