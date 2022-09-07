@@ -56,4 +56,5 @@ function generateMarkdown(answers) {
   ${answers.email}`;
 }
 
+module.exports = generateMarkdown;
 
